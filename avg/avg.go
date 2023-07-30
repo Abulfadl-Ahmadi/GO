@@ -1,7 +1,6 @@
 package main
-import "fmt"
 
- // this is a comment
+// this is a comment
 func main(){
 
 	// var a bool = true     // Boolean
